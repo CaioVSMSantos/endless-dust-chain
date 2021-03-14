@@ -1,4 +1,4 @@
-# EndlessDustChain
+# endless-dust-chain
 
 
 # Descrição
